@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
-
+# Date : 28/02/2025
+# Register Number : 212223040252
+# Name : Zafreen J
 
 # Aim : 
 
